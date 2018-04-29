@@ -1,4 +1,4 @@
-# Student-Roster
+# Student-Roster 
 
 The program contains two classes named student and roster, respectively. The program maintains a current roster of students within a given course. Student data for the program includes student ID, first name, last name, e-mail address, age, and array of grades. The program reads a list of five students, with one of the students being myself, and uses a series of method calls. Uses the principles of encapsulation and information hiding. 
 
